@@ -1,4 +1,8 @@
+jupyter
 keras
 numpy
 matplotlib
 tensorflow
+opencv-python
+sklearn
+pathlib
