@@ -3,6 +3,6 @@ keras
 numpy
 matplotlib
 tensorflow
-opencv-python
-sklearn
+opencv
+scikit-learn
 pathlib
